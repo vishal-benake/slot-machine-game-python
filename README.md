@@ -1,4 +1,4 @@
-# Slot Machine Game (Python) ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+# Slot Machine Game (Python)
 
 A simple slot machine game built using Python and Tkinter.
 
@@ -36,11 +36,6 @@ python slot_machine.py
 2. Press the `SPIN` button or hit `Enter`.
 3. If all symbols match, you win!
 4. Your balance updates after each spin.
-
-## License
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
-
-This project is licensed under the MIT License.
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="20" height="20"> Youtube
 <h4>If you like, do follow me on Youtube</h4>
